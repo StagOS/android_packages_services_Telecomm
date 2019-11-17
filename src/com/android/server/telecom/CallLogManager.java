@@ -45,7 +45,7 @@ import com.android.internal.telephony.CallerInfo;
 import com.android.internal.telephony.SubscriptionController;
 import com.android.server.telecom.callfiltering.CallFilteringResult;
 
-import org.lineageos.internal.phone.SensitivePhoneNumbers;
+import com.android.lib.phone.SensitivePhoneNumbers;
 
 import java.util.Arrays;
 import java.util.Locale;
